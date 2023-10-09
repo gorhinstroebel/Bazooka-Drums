@@ -1,0 +1,208 @@
+Bazooka Drums:
+==================================================
+
+
+Contents:
+1      I.    		Updates in 1.0.0 release
+2      II.   		Updates in 1.1.0 release
+3      III.  		Updates in 1.2.0 release
+4      IV.   		Updates in 1.3.0 release
+5      V.    		Updates in 1.4.0 release
+6      VI. 		Updates in 1.4.1 release
+7      VII.  		Updates in  release
+8      VIII. 		Updates in  release
+9      IX.   		Updates in  release
+10     X.    		Updates in  release
+11     XI.   		Updates in  release
+12     XII.  		Updates in  release
+13     XIII. 		Updates in  release
+14     XIV.   		Updates in  release
+15     XV.     		Updates in  release
+16     XVI.   		Updates in  release
+17     XVII.   		Updates in  release
+18     XVIII.   	Updates in  release
+19     XIX.   		Updates in  release
+20     XX.   		Updates in  release
+21     XXI.   		Updates in  release
+22     XXII.   		Updates in  release
+23     XXIII.   	Updates in  release
+24     XXIV.   		Updates in  release
+25     XXV.   		Updates in  release
+26     XXVI.   		Updates in  release
+27     XXVII.   	Updates in  release
+28     XXVIII.  	Updates in  release
+29     XXIX.   		Updates in  release
+30     XXX.   		Updates in  release
+31     XXXI.   		Updates in  release
+32     XXXII.   	Updates in  release
+33     XXXIII.   	Updates in  release
+34     XXXIV.   	Updates in  release
+35     XXXV.   		Updates in  release
+36     XXXVI.   	Updates in  release
+37     XXXVII.   	Updates in  release
+38     XXXVIII.   	Updates in  release
+39     XXXIX.   	Updates in  release
+40     XL.   		Updates in  release
+41     XLI.   		Updates in  release
+42     XLII.   		Updates in  release
+43     XLIII.   	Updates in  release
+44     XLIV.   		Updates in  release
+45     XLV.   		Updates in  release
+46     XLVI.   		Updates in  release
+47     XLVII.   	Updates in  release
+48     XLVIII.   	Updates in  release
+49     XLIX.   		Updates in  release
+50     L.   		Updates in  release
+	
+____________________________________________________________________________________________________
+
+
+
+
+
+\\\\\I.
+____________________________________________________________________________________________________
+Version 1.0.0 includes the Following New Features and Changes:
+____________________________________________________________________________________________________
+#Description:	The whole application has been created.
+____________________________________________________________________________________________________
+#Lead Developers: 		*Shaun Roselt
+				*Gorhin Stroebel
+#Lead Designers:		*Shaun Roselt
+				*Gorhin Stroebel
+#Lead Testers: 			*Shaun Roselt
+				*Gorhin Stroebel
+____________________________________________________________________________________________________
+
+
+-We created the whole application.
+
+
+/////
+
+
+
+
+
+
+\\\\\II.
+____________________________________________________________________________________________________
+Version 1.1.0 includes the Following New Features and Changes:
+____________________________________________________________________________________________________
+#Description:	Includes a Main Menu and Themes.
+____________________________________________________________________________________________________
+#Lead Developers: 		*Shaun Roselt
+#Lead Designers:		*Shaun Roselt
+#Lead Testers: 			*Shaun Roselt
+____________________________________________________________________________________________________
+
+
+-We added a Main Menu.
+-You can check the Product Version from Help (Main Menu).
+-You can set your own preferred theme.
+
+
+/////
+
+
+
+
+
+
+\\\\\III.
+____________________________________________________________________________________________________
+Version 1.2.0 includes the Following New Features and Changes:
+____________________________________________________________________________________________________
+#Description:	We added a few new things to the main menu.
+____________________________________________________________________________________________________
+#Lead Developers: 		*Shaun Roselt
+				*Gorhin Stroebel
+#Lead Designers:		*Shaun Roselt
+				*Gorhin Stroebel
+#Lead Testers: 			*Shaun Roselt
+				*Gorhin Stroebel
+____________________________________________________________________________________________________
+
+
+-We added shortcut keys to each Drum Button.
+-We added the ability to quickly access certain folders in the Application folder.
+
+
+
+/////
+
+
+
+
+
+
+\\\\\VI.
+____________________________________________________________________________________________________
+Version 1.3.0 includes the Following New Features and Changes:
+____________________________________________________________________________________________________
+#Description:	We worked on improving some of the basic application functions.
+____________________________________________________________________________________________________
+#Lead Developers: 		*Shaun Roselt
+#Lead Designers:		*Shaun Roselt
+#Lead Testers: 			*Shaun Roselt
+____________________________________________________________________________________________________
+
+
+-An About Form has been added.
+-You can now easily contact us from the Help sub-menu in the Main Menu.
+-We added a Themes Form.
+-Forms can now be permanently saved as a Theme.
+-We added the ability to load your own custom songs by right clicking on the button.
+
+
+
+/////
+
+
+
+
+
+
+\\\\\VII.
+____________________________________________________________________________________________________
+Version 1.4.0 includes the Following New Features and Changes:
+____________________________________________________________________________________________________
+#Description:	We added a wide range of new features.
+____________________________________________________________________________________________________
+#Lead Developers: 		*Shaun Roselt
+#Lead Designers:		*Shaun Roselt
+#Lead Testers: 			*Shaun Roselt
+____________________________________________________________________________________________________
+
+
+-We updated the About Form.
+-We added Options and included Themes as part of the Options.
+-We added the ability to create your own Custom Theme.
+
+
+
+/////
+
+
+
+
+
+
+\\\\\VIII.
+____________________________________________________________________________________________________
+Version 1.4.1 includes the Following New Features and Changes:
+____________________________________________________________________________________________________
+#Description:	We only updated some information
+____________________________________________________________________________________________________
+#Lead Developers: 		*Shaun Roselt
+#Lead Designers:		*Shaun Roselt
+#Lead Testers: 			*Shaun Roselt
+____________________________________________________________________________________________________
+
+
+-We updated the About Form.
+-We updated the Documentation Files.
+
+
+
+/////

@@ -1,0 +1,22 @@
+*** Minimum Requirements ***
+==================================
+-Hard Drive Space:	* 5MB
+-RAM:			* 256MB
+-Operating Systems:	* Windows XP (SP2 or higher)/Vista/7/8/8.1/10
+-CPU: 			* 2.5 GHz
+-Screen Resolution:	* 800x600 or higher 
+-Input: 		* Keyboard
+			* Mouse
+-Output:		* Speakers
+
+
+*** Recommended Requirements ***
+===================================
+-Hard Drive Space:	* 10MB
+-RAM:			* 512MB
+-Operating Systems:	* Windows 7/8/8.1/10
+-CPU:			* 3 GHz
+-Screen Resolution:	* 1024x768 or higher
+-Input:			* Keyboard
+			* Mouse
+-Output:		* Speakers

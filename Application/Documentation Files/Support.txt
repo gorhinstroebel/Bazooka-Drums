@@ -1,0 +1,40 @@
+Company:
+=====================================================================
+Name:			Bazooka Studios
+Location:		Bloemfontein, Free-State, South Africa
+---------------------------------------------------------------------
+
+
+
+
+
+
+
+Application:
+=====================================================================
+{See "Release Notes.txt" for more information about each version.}
+---------------------------------------------------------------------
+Lead Developers:	Shaun Roselt
+			Gorhin Stroebel
+
+Lead Designers:		Shaun Roselt
+			Gorhin Stroebel
+
+Lead Testers:		Shaun Roselt
+			Gorhin Stroebel
+---------------------------------------------------------------------
+
+
+
+
+
+
+
+Support:
+=====================================================================
+E-Mail:			BazookaStudios1@gmail.com
+Facebook:		www.facebook.com/The.Future.Studios.IT
+Twitter:		www.twitter.com/TFStudios1
+BBM Channel:		C00304884
+Website:		www.bazookastudios.d8u.org
+---------------------------------------------------------------------
